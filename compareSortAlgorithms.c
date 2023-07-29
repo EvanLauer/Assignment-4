@@ -159,7 +159,7 @@ int main(void)
 	clock_t start, end;
 	int i;
     double cpu_time_used;
-	char* fileNames[] = {"input1.txt", "input2.txt", "input1.txt"};
+	char* fileNames[] = {"input1.txt", "input2.txt", "input3.txt"};
 	
 	for (i=0;i<3;++i)
 	{
